@@ -1,0 +1,1068 @@
+{
+  "common": {
+    "home": "Home",
+    "learn": "Learn",
+    "takeSurvey": "Take Survey",
+    "resources": "Resources",
+    "community": "Community",
+    "signIn": "Sign In",
+    "joinUs": "Join Us",
+    "signOut": "Sign Out",
+    "profile": "Profile",
+    "messages": "Messages",
+    "mySurveys": "My Surveys",
+    "viewAll": "View All",
+    "call": "Call",
+    "visit": "Visit",
+    "verified": "Verified"
+  },
+  "auth": {
+    "joinSafeSteps": "Join Safe Steps",
+    "welcomeBack": "Welcome Back",
+    "createAccountDesc": "Create an account to connect with other parents",
+    "signInDesc": "Sign in to your account to continue",
+    "createAccount": "Create an account",
+    "signInTitle": "Sign in",
+    "enterDetailsToStart": "Enter your details to get started",
+    "enterCredentials": "Enter your credentials to access your account",
+    "displayName": "Display Name",
+    "yourName": "Your name",
+    "email": "Email",
+    "password": "Password",
+    "createAccountBtn": "Create Account",
+    "signInBtn": "Sign In",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?",
+    "signUpLink": "Sign up",
+    "signInLink": "Sign in",
+    "welcomeMessage": "Welcome to Safe Steps! 🎉",
+    "accountCreated": "Your account has been created successfully.",
+    "welcomeBackMessage": "Welcome back! 👋",
+    "signedInSuccess": "You've successfully signed in.",
+    "error": "Error",
+    "somethingWentWrong": "Something went wrong. Please try again."
+  },
+  "header": {
+    "safeSteps": "Safe Steps"
+  },
+  "home": {
+    "heroTitle": "Every Child Deserves",
+    "heroHighlight": "Safe Steps",
+    "heroTitleEnd": "Forward",
+    "heroDescription": "Supporting parents of children with disabilities through community connection, expert information, and early detection resources. You're not alone on this journey.",
+    "takeSurvey": "Take a Survey",
+    "joinCommunity": "Join Our Community",
+    "learnTitle": "Learn About Different Disabilities",
+    "learnDescription": "Explore comprehensive information about each disability type, including early signs, diagnosis information, and support resources.",
+    "featuresTitle": "How Safe Steps Helps You",
+    "featuresDescription": "We provide the tools and community support you need to navigate your child's journey with confidence.",
+    "ctaTitle": "Ready to Take the First Step?",
+    "ctaDescription": "Our symptom surveys can help you understand what you're observing and guide you toward the right resources.",
+    "startSurvey": "Start a Survey"
+  },
+  "disabilities": {
+    "pageTitle": "Learn About Disabilities",
+    "pageDescription": "Understanding your child's condition is the first step toward providing the best support. Select a category below to learn about signs, diagnosis, treatment options, and helpful resources.",
+    "notSure": "Not sure where to start?",
+    "takeSurveyHint": "Take one of our symptom surveys to help identify potential signs and get personalized guidance.",
+    "blindness": {
+      "title": "Blindness & Visual Impairment",
+      "description": "Learn about visual impairment, early detection signs, diagnosis process, and available support resources.",
+      "shortDesc": "Visual impairment resources and early detection signs"
+    },
+    "deafness": {
+      "title": "Deafness & Hearing Loss",
+      "description": "Understand hearing impairment, communication strategies, and how to support your child's development.",
+      "shortDesc": "Hearing impairment support and communication strategies"
+    },
+    "dyslexia": {
+      "title": "Dyslexia",
+      "description": "Discover how dyslexia affects learning, signs to watch for, and educational support strategies.",
+      "shortDesc": "Learning difference insights and educational support"
+    },
+    "speechDisability": {
+      "title": "Speech & Language Disability",
+      "description": "Explore speech development milestones, common challenges, and therapy options for your child.",
+      "shortDesc": "Speech and language development guidance"
+    }
+  },
+  "survey": {
+    "pageTitle": "Symptom Screening Surveys",
+    "pageDescription": "Select a category to begin a screening survey. These questionnaires help identify potential signs and guide you toward appropriate next steps. They are not a diagnosis.",
+    "disclaimer": "These surveys are screening tools only and should not replace professional medical evaluation. If you have concerns about your child, please consult with a healthcare provider.",
+    "visionScreening": "Vision Screening",
+    "visionDesc": "Check for signs of visual impairment",
+    "hearingScreening": "Hearing Screening",
+    "hearingDesc": "Evaluate hearing and auditory response",
+    "dyslexiaScreening": "Dyslexia Screening",
+    "dyslexiaDesc": "Assess reading and learning patterns",
+    "speechScreening": "Speech & Language",
+    "speechDesc": "Evaluate speech development",
+    "allAges": "All ages",
+    "fiveYearsPlus": "5+ years",
+    "questionsTime": "10 questions • ~5 min",
+    "backToSelection": "Back to selection",
+    "previous": "Previous",
+    "next": "Next",
+    "seeResults": "See Results",
+    "questionOf": "Question {{current}} of {{total}}"
+  },
+  "surveyResults": {
+    "title": "Your Screening Results",
+    "signsObserved": "Signs Observed",
+    "outOf": "out of",
+    "score": "score",
+    "lowTitle": "Few Signs Observed",
+    "lowDescription": "Based on your responses, your child shows few of the typical signs we look for. This is reassuring, but continue to monitor their development.",
+    "mediumTitle": "Some Signs Present",
+    "mediumDescription": "Your responses indicate some areas worth watching. This doesn't mean there's definitely a concern, but it may be helpful to discuss with a professional.",
+    "highTitle": "Worth Following Up",
+    "highDescription": "Your responses suggest it would be beneficial to consult with a specialist. Early evaluation can help ensure your child gets any support they might need.",
+    "whatThisMeans": "What does this mean?",
+    "meaningLow": "Most children show some of these behaviors occasionally. Your responses suggest your child's development in this area appears typical. However, if you have specific concerns, trust your instincts and speak with your pediatrician.",
+    "meaningMedium": "Some children develop differently, and that's okay. Your responses suggest it might be helpful to keep an eye on certain areas and consider a professional evaluation to rule out any concerns or get early support if needed.",
+    "meaningHigh": "Many of the signs you've observed can indicate that professional evaluation would be beneficial. Remember, early identification leads to better outcomes. This is a positive step toward supporting your child.",
+    "nextSteps": "Your Next Steps",
+    "step1Monitor": "Continue to observe and note any changes in your child's behavior",
+    "step1Discuss": "Schedule an appointment with a specialist to discuss your observations",
+    "step2Low": "Schedule regular check-ups as recommended for your child's age",
+    "step2Medium": "Consider scheduling a professional evaluation within the next few months",
+    "step2High": "Reach out to your pediatrician this week to discuss your concerns",
+    "step3": "Document specific behaviors to share with healthcare providers",
+    "step4": "Explore the resources below to learn more about available support",
+    "encouragementTitle": "You're a great parent!",
+    "encouragementText": "Taking this survey shows you care deeply about your child's wellbeing. Remember, this is a screening tool to help guide you—not a diagnosis. Whatever the results, you're taking positive steps for your child.",
+    "recommendedCenters": "Recommended Centers & Specialists",
+    "noResourcesYet": "No resources in database yet.",
+    "viewAllResources": "View All Resources",
+    "startNewSurvey": "Start New Survey",
+    "learnMore": "Learn More About"
+  },
+  "resources": {
+    "pageTitle": "Find Local Resources",
+    "pageDescription": "Discover specialists, therapists, and support services near you to help your child thrive.",
+    "search": "Search",
+    "searchPlaceholder": "Search by name, description, or city...",
+    "disabilityType": "Disability Type",
+    "resourceType": "Resource Type",
+    "district": "District",
+    "allDisabilities": "All Disabilities",
+    "allTypes": "All Types",
+    "allDistricts": "All Districts",
+    "resourcesFound": "{{count}} resource found",
+    "resourcesFoundPlural": "{{count}} resources found",
+    "noResults": "No resources found",
+    "noResultsHint": "Try adjusting your filters or search query to find more results.",
+    "types": {
+      "specialist": "Specialist",
+      "therapist": "Therapist",
+      "support_service": "Support Service",
+      "organization": "Organization"
+    },
+    "disabilities": {
+      "blindness": "Blindness",
+      "deafness": "Deafness",
+      "dyslexia": "Dyslexia",
+      "speech_disability": "Speech"
+    },
+    "districts": {
+      "Thiruvananthapuram": "Thiruvananthapuram",
+      "Kollam": "Kollam",
+      "Pathanamthitta": "Pathanamthitta",
+      "Alappuzha": "Alappuzha",
+      "Kottayam": "Kottayam",
+      "Idukki": "Idukki",
+      "Ernakulam": "Ernakulam",
+      "Thrissur": "Thrissur",
+      "Palakkad": "Palakkad",
+      "Malappuram": "Malappuram",
+      "Kozhikode": "Kozhikode",
+      "Wayanad": "Wayanad",
+      "Kannur": "Kannur",
+      "Kasaragod": "Kasaragod"
+    },
+    "call": "Call",
+    "email": "Email",
+    "website": "Website"
+  },
+  "features": {
+    "surveys": {
+      "title": "Symptom Surveys",
+      "description": "Interactive questionnaires to help identify early signs and get personalized guidance"
+    },
+    "community": {
+      "title": "Parent Community",
+      "description": "Connect with other parents who understand your journey through forums and messaging"
+    },
+    "resources": {
+      "title": "Supportive Resources",
+      "description": "Curated information about treatments, therapies, and local support services"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "description": "Learn more about Safe Steps and our mission to support families.",
+    "missionTitle": "Our Mission",
+    "missionDesc": "Safe Steps is dedicated to empowering parents and caregivers of children with disabilities. We believe every family deserves access to knowledge, community support, and local resources to help their children thrive.",
+    "whatWeDoTitle": "What We Do",
+    "whatWeDoDesc": "We provide screening surveys to help identify early signs of disabilities, connect parents through our community forum, and curate a directory of verified local resources including schools, therapists, and support organizations across Kerala.",
+    "contactTitle": "Contact Us",
+    "contactDesc": "Have questions or suggestions? We'd love to hear from you. Reach out to us at safesteps@example.com and our team will get back to you as soon as possible."
+  },
+  "footer": {
+    "description": "Supporting parents of children with disabilities through community connection and resources.",
+    "quickLinks": "Quick Links",
+    "support": "Support",
+    "contactUs": "Contact Us",
+    "aboutUs": "About Us",
+    "faq": "FAQ",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "copyright": "© 2024 Safe Steps. All rights reserved."
+  },
+  "surveyQuestions": {
+    "frequency": {
+      "never": "Never",
+      "rarely": "Rarely",
+      "sometimes": "Sometimes",
+      "often": "Often",
+      "always": "Always"
+    },
+    "yesNo": {
+      "no": "No",
+      "unsure": "Unsure",
+      "sometimes": "Sometimes",
+      "yes": "Yes"
+    },
+    "blindness": {
+      "title": "Vision Screening Survey",
+      "description": "This survey helps identify potential visual impairment signs in children. It is not a diagnosis but can help guide you toward professional evaluation.",
+      "ageRange": "0-12 years",
+      "b1": {
+        "question": "Does your child have difficulty tracking moving objects with their eyes?",
+        "description": "For example, following a toy or your face as it moves side to side"
+      },
+      "b2": {
+        "question": "Does your child frequently bump into furniture or objects?",
+        "description": "More than what seems typical for their age"
+      },
+      "b3": {
+        "question": "Does your child hold books or objects very close to their face?"
+      },
+      "b4": {
+        "question": "Does your child squint or close one eye when looking at things?"
+      },
+      "b5": {
+        "question": "Does your child tilt their head to see better?"
+      },
+      "b6": {
+        "question": "Does your child complain of headaches, especially after visual tasks?",
+        "description": "Reading, screen time, or detailed work"
+      },
+      "b7": {
+        "question": "Does your child have difficulty recognizing familiar faces from a distance?"
+      },
+      "b8": {
+        "question": "Does your child avoid activities that require good vision?",
+        "description": "Drawing, puzzles, reading, or ball games"
+      },
+      "b9": {
+        "question": "Have you noticed your child's eyes appearing misaligned or crossed?"
+      },
+      "b10": {
+        "question": "Does your child have unusual sensitivity to light?"
+      }
+    },
+    "deafness": {
+      "title": "Hearing Screening Survey",
+      "description": "This survey helps identify potential hearing impairment signs in children. Early detection is crucial for speech and language development.",
+      "ageRange": "0-12 years",
+      "response": {
+        "alwaysResponds": "Always responds",
+        "usuallyResponds": "Usually responds",
+        "sometimesResponds": "Sometimes responds",
+        "rarelyResponds": "Rarely responds",
+        "neverResponds": "Never responds"
+      },
+      "turns": {
+        "always": "Always",
+        "usually": "Usually",
+        "sometimes": "Sometimes",
+        "rarely": "Rarely",
+        "never": "Never"
+      },
+      "d1": {
+        "question": "Does your child respond when you call their name from another room?"
+      },
+      "d2": {
+        "question": "Does your child turn toward sounds or voices?",
+        "description": "Especially soft or distant sounds"
+      },
+      "d3": {
+        "question": "Does your child ask 'What?' or need things repeated frequently?"
+      },
+      "d4": {
+        "question": "Does your child speak louder than seems necessary?"
+      },
+      "d5": {
+        "question": "Does your child prefer the TV or music at a louder volume than others?"
+      },
+      "d6": {
+        "question": "Does your child watch your face intently when you speak?",
+        "description": "As if reading lips"
+      },
+      "d7": {
+        "question": "Has your child's speech development seemed delayed compared to peers?"
+      },
+      "d8": {
+        "question": "Does your child have difficulty following verbal instructions?",
+        "description": "Especially multi-step instructions"
+      },
+      "d9": {
+        "question": "Does your child seem to hear better from one ear than the other?"
+      },
+      "d10": {
+        "question": "Has your child had frequent ear infections?"
+      }
+    },
+    "dyslexia": {
+      "title": "Learning Difference Screening Survey",
+      "description": "This survey helps identify potential signs of dyslexia in children. Dyslexia affects reading and language processing but is not related to intelligence.",
+      "ageRange": "5-12 years",
+      "dy1": {
+        "question": "Does your child have difficulty learning letter names and sounds?"
+      },
+      "dy2": {
+        "question": "Does your child confuse letters that look similar (b/d, p/q)?"
+      },
+      "dy3": {
+        "question": "Does your child struggle to sound out new words?"
+      },
+      "dy4": {
+        "question": "Does your child read very slowly compared to classmates?"
+      },
+      "dy5": {
+        "question": "Does your child avoid reading aloud or get anxious about it?"
+      },
+      "dy6": {
+        "question": "Does your child have difficulty spelling common words?",
+        "description": "Words they should know by now"
+      },
+      "dy7": {
+        "question": "Does your child have trouble remembering sequences (days, months, alphabet)?"
+      },
+      "dy8": {
+        "question": "Does your child have difficulty following written instructions?",
+        "description": "Even when they understand verbal instructions well"
+      },
+      "dy9": {
+        "question": "Does your child skip words or lines when reading?"
+      },
+      "dy10": {
+        "question": "Is there a family history of reading or spelling difficulties?"
+      }
+    },
+    "speech_disability": {
+      "title": "Speech & Language Screening Survey",
+      "description": "This survey helps identify potential speech and language delays or disorders in children. Early intervention can significantly improve outcomes.",
+      "ageRange": "0-12 years",
+      "clarity": {
+        "everyoneUnderstands": "Everyone understands easily",
+        "mostUnderstand": "Most people understand",
+        "someDifficulty": "Some people have difficulty",
+        "mostDifficulty": "Most people have difficulty",
+        "veryHard": "Very hard to understand"
+      },
+      "s1": {
+        "question": "Is your child's speech difficult for others to understand?",
+        "description": "People outside the family"
+      },
+      "s2": {
+        "question": "Does your child substitute sounds in words (e.g., 'wabbit' for 'rabbit')?"
+      },
+      "s3": {
+        "question": "Does your child stutter or repeat sounds/words?"
+      },
+      "s4": {
+        "question": "Does your child have difficulty putting words together in sentences?",
+        "description": "Age-appropriate sentences"
+      },
+      "s5": {
+        "question": "Does your child have a limited vocabulary for their age?"
+      },
+      "s6": {
+        "question": "Does your child have trouble finding the right words to express themselves?"
+      },
+      "s7": {
+        "question": "Does your child have difficulty following conversations?"
+      },
+      "s8": {
+        "question": "Does your child avoid speaking in social situations?"
+      },
+      "s9": {
+        "question": "Has your child been late in reaching speech milestones?",
+        "description": "First words, putting words together"
+      },
+      "s10": {
+        "question": "Does your child have difficulty with the rhythm or flow of speech?",
+        "description": "Speaking too fast, too slow, or monotone"
+      }
+    },
+    "recommendations": {
+      "blindness": {
+        "low": [
+          "Continue monitoring your child's visual development",
+          "Schedule regular eye check-ups as recommended for their age",
+          "Ensure good lighting when your child reads or does detailed work"
+        ],
+        "medium": [
+          "Schedule an appointment with a pediatric ophthalmologist",
+          "Talk to your child's teacher about their classroom vision",
+          "Consider a comprehensive eye exam in the next few weeks",
+          "Monitor for any changes in visual behaviors"
+        ],
+        "high": [
+          "We strongly recommend scheduling an appointment with a pediatric ophthalmologist soon",
+          "Talk to your pediatrician about your observations",
+          "Request a vision screening at school if available",
+          "Keep a log of visual behaviors to share with the doctor",
+          "Learn about resources for children with visual impairments"
+        ]
+      },
+      "deafness": {
+        "low": [
+          "Continue monitoring your child's hearing and speech development",
+          "Ensure regular hearing screenings at well-child visits",
+          "Maintain a language-rich environment at home"
+        ],
+        "medium": [
+          "Schedule a hearing evaluation with an audiologist",
+          "Discuss your observations with your pediatrician",
+          "Monitor for any changes in hearing behaviors",
+          "Consider having hearing checked in different environments"
+        ],
+        "high": [
+          "We strongly recommend scheduling a comprehensive hearing evaluation with a pediatric audiologist",
+          "Talk to your pediatrician about your concerns right away",
+          "Learn about early intervention services in your area",
+          "Consider meeting with a speech-language pathologist",
+          "Explore resources for children with hearing impairments"
+        ]
+      },
+      "dyslexia": {
+        "low": [
+          "Continue supporting your child's reading development",
+          "Read together daily and make it enjoyable",
+          "Monitor progress and keep communication open with teachers"
+        ],
+        "medium": [
+          "Request an educational evaluation through your child's school",
+          "Talk to the teacher about specific reading challenges observed",
+          "Consider additional reading support or tutoring",
+          "Look into structured literacy programs"
+        ],
+        "high": [
+          "Request a formal evaluation for learning disabilities through the school",
+          "Consider a private educational psychologist evaluation",
+          "Research Orton-Gillingham or other structured literacy approaches",
+          "Connect with the school's special education team",
+          "Join support groups for parents of children with dyslexia"
+        ]
+      },
+      "speech_disability": {
+        "low": [
+          "Continue encouraging communication at home",
+          "Read and talk with your child regularly",
+          "Monitor speech development milestones"
+        ],
+        "medium": [
+          "Schedule an evaluation with a speech-language pathologist",
+          "Discuss concerns with your pediatrician",
+          "Practice speech exercises recommended by professionals",
+          "Be patient and give your child time to express themselves"
+        ],
+        "high": [
+          "We strongly recommend evaluation by a speech-language pathologist",
+          "Talk to your pediatrician about early intervention services",
+          "Learn about speech therapy options in your area",
+          "Create a supportive environment for communication at home",
+          "Connect with other parents of children with speech differences"
+        ]
+      }
+    }
+  },
+  "disabilityContent": {
+    "sections": {
+      "overview": "Overview",
+      "definition": "What is it?",
+      "prevalence": "How common is it?",
+      "keyPoints": "Key Points",
+      "earlySigns": "Early Signs",
+      "infants": "Infants (0-12 months)",
+      "toddlers": "Toddlers (1-3 years)",
+      "schoolAge": "School Age (4-12 years)",
+      "diagnosis": "Diagnosis",
+      "diagnosisProcess": "The Diagnosis Process",
+      "professionals": "Professionals Who Can Help",
+      "tests": "Common Tests",
+      "timeline": "Timeline",
+      "treatment": "Treatment Options",
+      "earlyIntervention": "Early Intervention",
+      "resources": "Helpful Resources",
+      "faqs": "Frequently Asked Questions"
+    },
+    "blindness": {
+      "title": "Blindness & Visual Impairment",
+      "description": "Understanding visual impairment in children, from early detection to support strategies",
+      "overview": {
+        "definition": "Visual impairment in children ranges from partial sight loss to complete blindness. It affects how children learn, develop, and interact with their environment. Early identification and intervention are crucial for optimal development.",
+        "prevalence": "Approximately 1 in 1,000 children are born with significant visual impairment. An additional 1 in 3,000 children become visually impaired before age 16.",
+        "keyPoints": [
+          "Vision develops rapidly in the first years of life",
+          "Many visual impairments can be corrected or managed if caught early",
+          "Children can thrive with proper support and accommodations",
+          "Early intervention services can significantly improve outcomes"
+        ]
+      },
+      "earlySigns": {
+        "infants": [
+          "Doesn't make eye contact by 3 months",
+          "Doesn't follow objects with eyes",
+          "Eyes appear crossed or turned out after 4 months",
+          "Unusual eye movements (nystagmus)",
+          "White or grayish-white color in the pupil",
+          "Eyes that flutter quickly from side to side or up and down"
+        ],
+        "toddlers": [
+          "Holds objects very close to face",
+          "Squints or closes one eye frequently",
+          "Tilts head to look at things",
+          "Bumps into objects often",
+          "Shows sensitivity to light",
+          "Rubs eyes frequently"
+        ],
+        "schoolAge": [
+          "Difficulty reading or loses place while reading",
+          "Sits very close to TV or computer",
+          "Frequent headaches or eye strain",
+          "Trouble seeing the board at school",
+          "Avoids activities requiring distance vision",
+          "Poor hand-eye coordination"
+        ]
+      },
+      "diagnosis": {
+        "process": "Diagnosis typically involves comprehensive eye examinations that assess visual acuity, eye alignment, and overall eye health. Pediatricians often perform initial screenings, with referrals to ophthalmologists for detailed evaluation.",
+        "professionals": [
+          "Pediatric Ophthalmologist",
+          "Optometrist",
+          "Vision Therapist",
+          "Low Vision Specialist"
+        ],
+        "tests": [
+          "Visual acuity tests (eye charts)",
+          "Refraction assessment",
+          "Eye muscle function tests",
+          "Dilated eye examination",
+          "Visual field testing",
+          "Color vision testing"
+        ],
+        "timeline": "Initial screenings begin at birth and continue through childhood. If concerns arise, specialized testing can be performed at any age, with some tests adapted for infants."
+      },
+      "treatment": {
+        "options": [
+          {
+            "title": "Corrective Lenses",
+            "description": "Glasses or contact lenses can correct refractive errors like nearsightedness, farsightedness, and astigmatism."
+          },
+          {
+            "title": "Surgery",
+            "description": "Surgical procedures can address conditions like cataracts, strabismus (crossed eyes), or blocked tear ducts."
+          },
+          {
+            "title": "Vision Therapy",
+            "description": "Structured exercises and activities to improve visual skills and processing."
+          },
+          {
+            "title": "Low Vision Aids",
+            "description": "Magnifiers, large print materials, and assistive technology for children with partial sight."
+          },
+          {
+            "title": "Orientation & Mobility Training",
+            "description": "Teaching children to navigate their environment safely and independently."
+          }
+        ],
+        "earlyIntervention": "Early intervention services for visually impaired children can begin as early as birth. These programs help develop compensatory skills and support overall development."
+      },
+      "resources": [
+        {
+          "title": "American Foundation for the Blind",
+          "description": "Comprehensive resources for families of children with visual impairments.",
+          "type": "organization"
+        },
+        {
+          "title": "National Federation of the Blind",
+          "description": "Advocacy, resources, and community support for blind individuals and families.",
+          "type": "organization"
+        },
+        {
+          "title": "Lighthouse Guild",
+          "description": "Vision rehabilitation services and support programs.",
+          "type": "organization"
+        },
+        {
+          "title": "Family Connect",
+          "description": "Online community and resources specifically for parents of visually impaired children.",
+          "type": "website"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can my child attend regular school?",
+          "answer": "Yes! Many children with visual impairments attend mainstream schools with appropriate accommodations. These may include large print materials, preferential seating, assistive technology, or support from a vision teacher."
+        },
+        {
+          "question": "Will my child need to learn Braille?",
+          "answer": "Not all visually impaired children need Braille. The decision depends on the degree of vision loss and whether it's progressive. A vision specialist can help determine the best literacy approach."
+        },
+        {
+          "question": "How can I help my child at home?",
+          "answer": "Create a consistent environment, use verbal descriptions, encourage independence, and work with vision specialists to learn specific strategies for daily activities."
+        }
+      ]
+    },
+    "deafness": {
+      "title": "Deafness & Hearing Loss",
+      "description": "Comprehensive guide to hearing impairment in children, communication strategies, and support",
+      "overview": {
+        "definition": "Hearing loss in children can range from mild to profound and may be present at birth (congenital) or develop later (acquired). It affects language development, communication, and social interaction.",
+        "prevalence": "About 2-3 of every 1,000 children are born with detectable hearing loss. This number increases with age as some children develop hearing loss later.",
+        "keyPoints": [
+          "Newborn hearing screening catches most congenital hearing loss",
+          "Early identification (by 3 months) and intervention (by 6 months) are critical",
+          "Many children with hearing loss develop age-appropriate language with proper support",
+          "Technology and communication strategies continue to improve outcomes"
+        ]
+      },
+      "earlySigns": {
+        "infants": [
+          "Doesn't startle at loud sounds",
+          "Doesn't turn toward sounds by 6 months",
+          "Doesn't babble or stops babbling",
+          "Doesn't respond to their name",
+          "Seems to hear some sounds but not others",
+          "Is not soothed by your voice"
+        ],
+        "toddlers": [
+          "Delayed speech development",
+          "Unclear speech compared to peers",
+          "Needs TV or music louder than others",
+          "Doesn't follow simple directions",
+          "Says 'huh?' or 'what?' frequently",
+          "Watches faces intently when being spoken to"
+        ],
+        "schoolAge": [
+          "Difficulty following classroom discussions",
+          "Struggles with reading and spelling",
+          "Speaks loudly or softly inappropriately",
+          "Withdraws from social situations",
+          "Frequently misunderstands questions",
+          "Complains of earaches or ringing in ears"
+        ]
+      },
+      "diagnosis": {
+        "process": "Diagnosis begins with newborn hearing screening. If concerns arise, audiologists perform comprehensive hearing evaluations. Testing is adapted for the child's age and development level.",
+        "professionals": [
+          "Audiologist",
+          "Otolaryngologist (ENT)",
+          "Speech-Language Pathologist",
+          "Deaf Education Specialist"
+        ],
+        "tests": [
+          "Otoacoustic Emissions (OAE)",
+          "Auditory Brainstem Response (ABR)",
+          "Behavioral audiometry",
+          "Tympanometry",
+          "Speech recognition testing",
+          "Pure tone audiometry"
+        ],
+        "timeline": "Newborn screening occurs before hospital discharge. If screening isn't passed, diagnostic testing should occur by 3 months. Intervention should begin by 6 months."
+      },
+      "treatment": {
+        "options": [
+          {
+            "title": "Hearing Aids",
+            "description": "Devices that amplify sound for children with mild to severe hearing loss."
+          },
+          {
+            "title": "Cochlear Implants",
+            "description": "Surgically implanted devices that provide sound perception for severe to profound hearing loss."
+          },
+          {
+            "title": "Speech-Language Therapy",
+            "description": "Specialized therapy to develop speech, language, and listening skills."
+          },
+          {
+            "title": "Sign Language",
+            "description": "Visual language that can be used alone or alongside spoken language (total communication)."
+          },
+          {
+            "title": "FM Systems",
+            "description": "Wireless technology that transmits the speaker's voice directly to hearing aids."
+          }
+        ],
+        "earlyIntervention": "Early intervention for deaf and hard-of-hearing children focuses on language development, whether through spoken language, sign language, or both. Services often include family support and parent education."
+      },
+      "resources": [
+        {
+          "title": "National Association of the Deaf",
+          "description": "Civil rights organization providing resources and advocacy for deaf individuals.",
+          "type": "organization"
+        },
+        {
+          "title": "Hands & Voices",
+          "description": "Parent-driven organization supporting families of deaf and hard-of-hearing children.",
+          "type": "organization"
+        },
+        {
+          "title": "AG Bell Association",
+          "description": "Resources for families pursuing spoken language outcomes.",
+          "type": "organization"
+        },
+        {
+          "title": "Gallaudet University",
+          "description": "Leading academic institution for deaf education and resources.",
+          "type": "organization"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Should my child learn sign language?",
+          "answer": "This is a personal family decision. Many families choose spoken language only, sign language only, or a combination. Consider your family's communication needs, resources, and your child's specific hearing loss."
+        },
+        {
+          "question": "Will my child be able to speak?",
+          "answer": "Many children with hearing loss develop spoken language, especially with early identification and intervention. Factors include degree of hearing loss, age of intervention, and type of amplification used."
+        },
+        {
+          "question": "How do I communicate with my baby before they have language?",
+          "answer": "Use visual communication (facial expressions, gestures), maintain eye contact, and consider learning baby sign language. Your audiologist and early intervention team can provide specific strategies."
+        }
+      ]
+    },
+    "dyslexia": {
+      "title": "Dyslexia",
+      "description": "Understanding dyslexia: signs, assessment, and effective strategies for supporting your child",
+      "overview": {
+        "definition": "Dyslexia is a specific learning disability that affects reading, writing, and spelling. It's neurological in origin and is not related to intelligence. Children with dyslexia often have average to above-average intelligence.",
+        "prevalence": "Dyslexia affects approximately 15-20% of the population to some degree. It's the most common learning disability, accounting for 80% of all learning disabilities.",
+        "keyPoints": [
+          "Dyslexia is a lifelong condition, but with support, individuals can excel",
+          "It often runs in families (genetic component)",
+          "Early identification and structured literacy instruction are key",
+          "Many successful individuals have dyslexia, including entrepreneurs and artists"
+        ]
+      },
+      "earlySigns": {
+        "infants": [
+          "Late talking compared to peers",
+          "Difficulty learning new words",
+          "Problems with rhyming games",
+          "Trouble learning nursery rhymes",
+          "Mispronouncing familiar words",
+          "Difficulty remembering sequences (like alphabet)"
+        ],
+        "toddlers": [
+          "Trouble learning letter names and sounds",
+          "Difficulty recognizing own name in print",
+          "Avoiding drawing or writing activities",
+          "Struggling to retell a story in order",
+          "Mixing up words that sound similar",
+          "Difficulty clapping out syllables in words"
+        ],
+        "schoolAge": [
+          "Reading below grade level",
+          "Avoiding reading aloud",
+          "Spelling the same word differently",
+          "Difficulty copying from the board",
+          "Trouble learning a foreign language",
+          "Messy handwriting despite effort"
+        ]
+      },
+      "diagnosis": {
+        "process": "Dyslexia diagnosis involves comprehensive evaluation of reading skills, language abilities, cognitive processing, and academic achievement. Testing looks for the specific patterns associated with dyslexia.",
+        "professionals": [
+          "Educational Psychologist",
+          "School Psychologist",
+          "Neuropsychologist",
+          "Reading Specialist"
+        ],
+        "tests": [
+          "Phonological processing assessments",
+          "Reading fluency and accuracy tests",
+          "Spelling assessments",
+          "Rapid naming tests",
+          "IQ/cognitive testing",
+          "Academic achievement testing"
+        ],
+        "timeline": "While signs can appear in preschool, formal diagnosis typically occurs in elementary school when reading instruction begins. However, many individuals aren't diagnosed until adolescence or adulthood."
+      },
+      "treatment": {
+        "options": [
+          {
+            "title": "Structured Literacy Instruction",
+            "description": "Systematic, explicit teaching of phonics, phonemic awareness, and decoding skills (like Orton-Gillingham approach)."
+          },
+          {
+            "title": "Reading Intervention Programs",
+            "description": "Evidence-based programs like Wilson Reading System, Lindamood-Bell, or Barton Reading."
+          },
+          {
+            "title": "Accommodations",
+            "description": "Extended time on tests, audiobooks, speech-to-text software, and alternative assessment methods."
+          },
+          {
+            "title": "Assistive Technology",
+            "description": "Text-to-speech software, digital highlighters, and organizational apps."
+          },
+          {
+            "title": "Educational Therapy",
+            "description": "One-on-one work with a specialist to develop reading and learning strategies."
+          }
+        ],
+        "earlyIntervention": "Early intervention for dyslexia focuses on building phonological awareness and letter-sound knowledge before formal reading instruction begins. Pre-K programs can identify at-risk children."
+      },
+      "resources": [
+        {
+          "title": "International Dyslexia Association",
+          "description": "Leading organization providing information, research, and resources about dyslexia.",
+          "type": "organization"
+        },
+        {
+          "title": "Learning Ally",
+          "description": "Audiobook library and support for students with dyslexia.",
+          "type": "organization"
+        },
+        {
+          "title": "Understood.org",
+          "description": "Comprehensive resources for parents of children with learning differences.",
+          "type": "website"
+        },
+        {
+          "title": "Bookshare",
+          "description": "Accessible ebook library for students with reading barriers.",
+          "type": "website"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Does dyslexia mean my child sees letters backwards?",
+          "answer": "No, this is a common misconception. Dyslexia is primarily about difficulty processing the sounds in language (phonological processing), not visual processing. Letter reversals are common in all young children learning to write."
+        },
+        {
+          "question": "Will my child ever be able to read well?",
+          "answer": "With appropriate instruction and support, most children with dyslexia can become proficient readers. They may always read more slowly, but can develop strong comprehension and enjoyment of reading."
+        },
+        {
+          "question": "Is dyslexia related to intelligence?",
+          "answer": "Absolutely not! Dyslexia occurs across all levels of intelligence. Many highly intelligent and successful people have dyslexia."
+        }
+      ]
+    },
+    "speech-disability": {
+      "title": "Speech & Language Disorders",
+      "description": "Guide to speech and language disorders in children: understanding, identification, and support",
+      "overview": {
+        "definition": "Speech and language disorders encompass difficulties with producing speech sounds, fluency (stuttering), voice, and/or understanding and using language. These disorders can affect communication, learning, and social interaction.",
+        "prevalence": "Approximately 8-9% of young children have a speech or language disorder. Many of these are successfully treated with early intervention.",
+        "keyPoints": [
+          "Speech disorders affect how sounds are produced",
+          "Language disorders affect understanding or expressing ideas",
+          "Many children have both speech and language difficulties",
+          "Early intervention leads to the best outcomes"
+        ]
+      },
+      "earlySigns": {
+        "infants": [
+          "Limited babbling (no 'baba' or 'dada')",
+          "Doesn't respond to sounds or voices",
+          "No gesturing (pointing, waving) by 12 months",
+          "Not using any words by 12 months",
+          "Doesn't seem to understand simple words",
+          "Limited variety of sounds produced"
+        ],
+        "toddlers": [
+          "Using fewer than 50 words by age 2",
+          "Not combining words by age 2",
+          "Speech difficult for parents to understand",
+          "Losing words they previously used",
+          "Frustration with communication",
+          "Not following simple directions"
+        ],
+        "schoolAge": [
+          "Difficulty being understood by unfamiliar listeners",
+          "Trouble finding the right words",
+          "Struggling to tell stories in order",
+          "Persistent stuttering",
+          "Difficulty with reading and writing",
+          "Problems following multi-step directions"
+        ]
+      },
+      "diagnosis": {
+        "process": "Speech-language pathologists conduct comprehensive evaluations examining all aspects of communication including speech sound production, language comprehension and expression, fluency, and social communication.",
+        "professionals": [
+          "Speech-Language Pathologist",
+          "Audiologist",
+          "Developmental Pediatrician",
+          "Child Psychologist"
+        ],
+        "tests": [
+          "Articulation assessments",
+          "Language sampling and analysis",
+          "Standardized language tests",
+          "Oral-motor examination",
+          "Hearing screening",
+          "Fluency assessment"
+        ],
+        "timeline": "Concerns can be evaluated at any age. Many speech-language milestones occur in the first three years, so early evaluation is encouraged if parents have concerns."
+      },
+      "treatment": {
+        "options": [
+          {
+            "title": "Speech Therapy",
+            "description": "Individual or group sessions focusing on specific speech or language goals."
+          },
+          {
+            "title": "Articulation Therapy",
+            "description": "Practice producing specific speech sounds correctly."
+          },
+          {
+            "title": "Language Intervention",
+            "description": "Activities to build vocabulary, grammar, and conversation skills."
+          },
+          {
+            "title": "Fluency Therapy",
+            "description": "Techniques to manage stuttering and improve smooth speech."
+          },
+          {
+            "title": "Augmentative Communication (AAC)",
+            "description": "Communication devices or systems for children who need support expressing themselves."
+          }
+        ],
+        "earlyIntervention": "Early intervention for speech-language delays begins as early as birth. Services often include parent coaching to support communication development in daily routines."
+      },
+      "resources": [
+        {
+          "title": "American Speech-Language-Hearing Association",
+          "description": "Professional organization with family resources and therapist finder.",
+          "type": "organization"
+        },
+        {
+          "title": "The Stuttering Foundation",
+          "description": "Resources and support specifically for families dealing with stuttering.",
+          "type": "organization"
+        },
+        {
+          "title": "Late Talkers Foundation",
+          "description": "Support for families of children with language delays.",
+          "type": "organization"
+        },
+        {
+          "title": "NIDCD - Speech and Language",
+          "description": "National Institutes of Health information on speech-language disorders.",
+          "type": "website"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Is it normal for toddlers to be hard to understand?",
+          "answer": "Some unclear speech is normal in toddlers. However, by age 2, parents should understand about 50% of their child's speech, and by age 3, about 75%. Strangers typically understand most of a 4-year-old's speech."
+        },
+        {
+          "question": "Will my child grow out of it?",
+          "answer": "Some children do catch up on their own, but there's no way to predict which children will. Early evaluation and intervention are recommended because treatment is most effective when started early."
+        },
+        {
+          "question": "Does using a pacifier or bottle cause speech problems?",
+          "answer": "Extended pacifier or bottle use can affect oral development, but these are rarely the sole cause of speech problems. If you have concerns, discuss them with your pediatrician or a speech-language pathologist."
+        }
+      ]
+    }
+  },
+  "community": {
+    "title": "Community Forum",
+    "description": "Connect with other parents, share experiences, and find support from those who understand your journey.",
+    "recentPosts": "Recent Posts",
+    "categories": "Categories",
+    "newPost": "New Post",
+    "loadingPosts": "Loading posts...",
+    "loadingCategories": "Loading categories...",
+    "loading": "Loading...",
+    "noPosts": "No posts yet. Be the first to start a conversation!",
+    "joinCommunity": "Join the Community",
+    "categoryNotFound": "Category not found",
+    "backToCommunity": "Back to Community",
+    "discussions": "Discussions",
+    "noDiscussions": "No discussions in this category yet.",
+    "startFirstDiscussion": "Start the First Discussion",
+    "joinToStartDiscussion": "Join to Start a Discussion",
+    "postNotFound": "Post not found",
+    "backTo": "Back to {{name}}",
+    "like": "Like",
+    "likes": "Likes",
+    "saved": "Saved",
+    "save": "Save",
+    "in": "in",
+    "anonymous": "Anonymous",
+    "createNewPost": "Create a New Post",
+    "joinToPost": "Join our community to share your thoughts and connect with other parents.",
+    "signUpToPost": "Sign Up to Post",
+    "category": "Category",
+    "selectCategory": "Select a category",
+    "postTitle": "Title",
+    "titlePlaceholder": "What's on your mind?",
+    "content": "Content",
+    "contentPlaceholder": "Share your thoughts, questions, or experiences...",
+    "posting": "Posting...",
+    "post": "Post",
+    "comments": "Comments",
+    "commentPlaceholder": "Share your thoughts...",
+    "postComment": "Post Comment",
+    "signInToComment": "Sign in to join the conversation",
+    "signIn": "Sign In",
+    "loadingComments": "Loading comments...",
+    "noComments": "No comments yet. Be the first to share your thoughts!",
+    "reply": "Reply",
+    "replyPlaceholder": "Write a reply...",
+    "cancel": "Cancel"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "description": "Find answers to common questions about Safe Steps and our services.",
+    "q1": "What is Safe Steps?",
+    "a1": "Safe Steps is a platform designed to help parents identify early signs of disabilities in children and connect them with supportive resources and a caring community.",
+    "q2": "Are the symptom surveys a medical diagnosis?",
+    "a2": "No. Our surveys are screening tools designed to help identify potential signs. They are not a substitute for professional medical evaluation. We always recommend consulting a healthcare professional for a proper diagnosis.",
+    "q3": "Is my data kept private?",
+    "a3": "Yes. We take your privacy very seriously. All survey responses and personal information are securely stored and never shared with third parties without your consent.",
+    "q4": "How can I connect with other parents?",
+    "a4": "You can join our Community Forum where parents share experiences, ask questions, and support each other. Simply create an account and start participating in discussions.",
+    "q5": "What types of disabilities does Safe Steps cover?",
+    "a5": "Currently, Safe Steps focuses on four areas: Blindness/Visual Impairment, Deafness/Hearing Loss, Dyslexia/Learning Disabilities, and Speech Disabilities.",
+    "q6": "How do I find local resources near me?",
+    "a6": "Visit our Resources page where you can search for verified local support services, therapists, schools, and organizations filtered by your location and disability type."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "description": "How we collect, use, and protect your information.",
+    "dataCollection": "Data Collection",
+    "dataCollectionDesc": "We collect information you provide when creating an account, taking surveys, and participating in community discussions. This includes your name, email address, survey responses, and forum posts.",
+    "dataUsage": "How We Use Your Data",
+    "dataUsageDesc": "Your data is used to provide personalized recommendations, connect you with relevant resources, and improve our services. Survey data may be used in aggregate (anonymized) form for research purposes.",
+    "dataSecurity": "Data Security",
+    "dataSecurityDesc": "We implement industry-standard security measures to protect your personal information. All data is encrypted in transit and at rest. We regularly review our security practices to ensure your data remains safe.",
+    "yourRights": "Your Rights",
+    "yourRightsDesc": "You have the right to access, modify, or delete your personal data at any time. You can also request a copy of all data we hold about you. Contact us to exercise any of these rights.",
+    "contact": "Contact Us",
+    "contactDesc": "If you have any questions about our privacy practices or wish to exercise your data rights, please reach out to us through our community forum or email us at support@safesteps.org."
+  }
+}
