@@ -6,7 +6,7 @@ The system integrates a rule-based assessment engine, multilingual accessibility
 
 ---
 
-## 🌟 Features
+# 🌟 Features
 
 * 📚 Learn module with disability information and early signs
 * 🧠 Rule-based disability assessment questionnaire
@@ -19,9 +19,9 @@ The system integrates a rule-based assessment engine, multilingual accessibility
 
 ---
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 
-### Frontend
+## Frontend
 
 * ⚡ Vite
 * 📘 TypeScript
@@ -29,23 +29,24 @@ The system integrates a rule-based assessment engine, multilingual accessibility
 * 🎨 shadcn-ui
 * 🌈 Tailwind CSS
 
-### Backend
+## Backend
 
-* 🐍 Python Django
+* 🟢 Node.js
+* 🚂 Express.js
 * 🔗 REST API
 
-### Database
+## Database
 
 * 🗄️ MySQL
 
 ---
 
-## 🏗️ System Architecture
+# 🏗️ System Architecture
 
 The platform follows a structured multi-tier architecture consisting of:
 
 * Frontend User Interface
-* Django Backend Server
+* Node.js Backend Server
 * MySQL Database Layer
 * REST API Communication
 
@@ -58,9 +59,9 @@ The backend handles:
 
 ---
 
-## 📋 Modules
+# 📋 Modules
 
-### 📖 Learn Module
+## 📖 Learn Module
 
 Provides structured information about:
 
@@ -80,7 +81,7 @@ Includes:
 
 ---
 
-### 🧠 Assessment Module
+## 🧠 Assessment Module
 
 A questionnaire-based early screening system that:
 
@@ -93,7 +94,7 @@ A questionnaire-based early screening system that:
 
 ---
 
-### 🏥 Resource Finder
+## 🏥 Resource Finder
 
 Allows users to search for:
 
@@ -111,7 +112,7 @@ Filtering options include:
 
 ---
 
-### 👥 Community Forum
+## 👥 Community Forum
 
 Enables parents to:
 
@@ -122,10 +123,10 @@ Enables parents to:
 
 ---
 
-## 🔄 Workflow
+# 🔄 Workflow
 
 1. User interacts with the frontend interface
-2. Frontend sends requests to Django backend using REST APIs
+2. Frontend sends requests to backend using REST APIs
 3. Backend processes:
 
    * Authentication
@@ -137,7 +138,7 @@ Enables parents to:
 
 ---
 
-## 📊 Performance Evaluation
+# 📊 Performance Evaluation
 
 Google Lighthouse evaluation results:
 
@@ -152,7 +153,7 @@ Google Lighthouse evaluation results:
 
 ---
 
-## 🎯 Objectives
+# 🎯 Objectives
 
 * Develop a parent-friendly early screening platform
 * Implement a rule-based assessment model
@@ -163,7 +164,7 @@ Google Lighthouse evaluation results:
 
 ---
 
-## 🔮 Future Scope
+# 🔮 Future Scope
 
 * AI-based predictive disability analysis
 * Chatbot integration
